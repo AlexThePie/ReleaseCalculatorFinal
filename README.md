@@ -1,6 +1,5 @@
 # ReleaseCalculatorFinal
-After many days my first programm is ready!
-Its small console calculator works with rome and arabic digit.
-please enjoy it! Hope you like it!
-best regards, 
+Its small console calculator works with rome and arabic digits.
+Please enjoy it! Hope you like it!
+With best regards, 
 Alex the Pie
